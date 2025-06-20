@@ -34,7 +34,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
- ### ![File logo](<a href="https://www.flaticon.com/free-icons/document" title="document icons">Document icons created by justicon - Flaticon</a>)Repository Structure
+  ![File logo](<a href="https://www.flaticon.com/free-icons/document" title="document icons">Document icons created by justicon - Flaticon</a>) ### Repository Structure
 
 ---
 
